@@ -1,6 +1,6 @@
 .header-container{
 background-color: #80d6ec99;
-width: 100vw;
+width: 98.5vw;
 height: 70px;
 padding:10px 0;
 display: flex;
@@ -14,7 +14,7 @@ justify-content: space-between;
 }
 
 .header-links{
-  padding: 5px 20px;
+  padding: 5px 10px;
   margin: auto 0;
 }
 
@@ -22,17 +22,17 @@ justify-content: space-between;
   /* margin: 5px 20px; */
   text-decoration: none;
   color: rgb(152, 4, 4);
-  font-weight: 560;
-  padding: 10px 30px;
+  font-weight: 600;
+  padding: 10px 10px;
 
   /* font-size: 2.0em; */
-  font-size: 22px;
+  font-size: 18px;
   letter-spacing: 3px;
 }
 
 .header-links a:hover{
   color: red;
-  padding: 10px 30px;
+  padding: 10px 10px;
   background-color: rgba(0, 128, 0, 0.5);
   border-radius: 10px;
 }
